@@ -16,8 +16,6 @@ namespace Dgmjr.PowerShell;
 
 using System.Management.Automation;
 
-
-
 public struct StringSwitch
 {
     public StringSwitch() => Value = bool.FalseString;

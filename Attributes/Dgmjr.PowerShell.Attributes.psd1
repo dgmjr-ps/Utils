@@ -24,7 +24,7 @@
     Author             = 'David G. Moore, Jr.'
 
     # Company or vendor of this module
-    CompanyName        = 'DGMJR'
+    CompanyName        = 'DGMJR-IO'
 
     # Copyright statement for this module
     Copyright          = '© David G. Moore, Jr.. All rights reserved.'

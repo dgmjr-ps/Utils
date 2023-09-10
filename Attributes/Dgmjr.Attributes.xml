@@ -17,22 +17,22 @@
             <summary>IsDirtyString: true</summary>
         </member>
         <member name="F:ThisAssembly.Git.RepositoryUrl">
-            <summary>Repository URL: https://github.com/dgmjr-io/root.git</summary>
+            <summary>Repository URL: </summary>
         </member>
         <member name="F:ThisAssembly.Git.Branch">
             <summary>Branch: main</summary>
         </member>
         <member name="F:ThisAssembly.Git.Commit">
-            <summary>Commit: c452647</summary>
+            <summary>Commit: ab1f6d5</summary>
         </member>
         <member name="F:ThisAssembly.Git.Sha">
-            <summary>Sha: c4526471690f993e2d2a602ebcf7ddd7e64f0c72</summary>
+            <summary>Sha: ab1f6d5ecd71dadf66d43a0573ab7e165aa9028b</summary>
         </member>
         <member name="F:ThisAssembly.Git.CommitDate">
-            <summary>Commit date: 2023-02-25T23:41:29-05:00</summary>
+            <summary>Commit date: </summary>
         </member>
         <member name="F:ThisAssembly.Git.Commits">
-            <summary>Commits on top of base version: 1</summary>
+            <summary>Commits on top of base version: 4</summary>
         </member>
         <member name="F:ThisAssembly.Git.Tag">
             <summary>Tag: </summary>
@@ -62,7 +62,7 @@
             <summary>Minor: 0</summary>
         </member>
         <member name="F:ThisAssembly.Git.SemVer.Patch">
-            <summary>Patch: 1</summary>
+            <summary>Patch: 4</summary>
         </member>
         <member name="F:ThisAssembly.Git.SemVer.Label">
             <summary>Label: </summary>
